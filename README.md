@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**russi115/russi115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sebastian, a passionate backend developer from Venezuela.
 
-Here are some ideas to get you started:
+* Currently working for Multifiber as Junior Developer.
+* I have a [Portfolio]().
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Using React.js in Production since 2020.
+* Knowlegde about many languages and frameworks.
+* Docker, PWA, Cloud Hosting, Local and Cloud Databases.
+
+## Contact
+
+Find all of my socials and resume in my [Portfolio]().
+
