@@ -25,7 +25,7 @@ My name is Sebastian Russian, a passionate developer from Venezuela.
 
 Find all of my socials and resume in my [Portfolio](https://russi115.github.io/).
 
-Download my [CV](https://drive.google.com/file/d/1ROSplwmQdb0we-7AYNwBxBelF0MRauEY/view?usp=sharing).
+Download my [CV](https://drive.google.com/file/d/1UoWT08XzjNjxJcqz_IWjLRtSwUudYQig/view?usp=sharing).
 
 <p align="left">
     <a href="https://github.com/russi115" target="_blank" rel="noreferrer"> 
