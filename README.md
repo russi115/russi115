@@ -1,14 +1,13 @@
-## Hello 👋
+## Hello, there!👋
 
-My name is Sebastian Russian, a passionate developer from Venezuela.
+My name is Sebastian Russian, I'm 22 years old passionate developer from Venezuela.<br>
+I mainly use Js, but I can code in other languages too.
 
-- ⛏ Currently working for Multifiber as backend Developer.
 - 📋 I have a [Portfolio](https://russi115.github.io/).
 - 💼 Any freelance work? do reach, email [sfwrussians@gmail.com](mailto:sfwrussians@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help
+
 
 ## Skills
-
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -23,9 +22,7 @@ My name is Sebastian Russian, a passionate developer from Venezuela.
 
 ## Contact
 
-Find all of my socials and resume in my [Portfolio](https://russi115.github.io/).
-
-Download my [CV](https://drive.google.com/file/d/1UoWT08XzjNjxJcqz_IWjLRtSwUudYQig/view?usp=sharing).
+Download my [resume](./assets/resume2024.pdf).
 
 <p align="left">
     <a href="https://github.com/russi115" target="_blank" rel="noreferrer"> 
